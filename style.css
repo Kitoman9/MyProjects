@@ -1,0 +1,22 @@
+html {
+
+    background-color: lightblue;
+}
+button {
+
+color: blueviolet;
+background-color: brown;
+
+}
+p {
+
+    background-color: azure;
+    font-weight: bold;
+    font-family: cursive;
+
+}
+
+.next {
+    background-color: black;
+    color: white;
+}
